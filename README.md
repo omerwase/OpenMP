@@ -1,2 +1,2 @@
 # OpenMP
-Parallel Programming in C using OpenMP
+Construction and property verification of a string using multithreading with OpenMP
