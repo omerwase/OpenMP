@@ -1,7 +1,7 @@
 # OpenMP
 Construction and property verification of a string using multithreading with OpenMP 
    
-Usage: ./pa1.x (property #) N L M c0 c1 c2.  
+Usage: ./pa2.x (property #) N L M c0 c1 c2.  
 ## Program function:
 The program creates a string S with M segments, each of length L (|S| = M x L) using 3 <= N <= 8 threads.  
    
